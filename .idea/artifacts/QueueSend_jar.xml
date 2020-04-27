@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="QueueSend:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QueueSend_jar</output-path>
+    <root id="archive" name="QueueSend.jar">
+      <element id="module-output" name="QueueSend" />
+      <element id="library" level="application" name="artemis-jms-client-all-2.9.0.redhat-00005" />
+    </root>
+  </artifact>
+</component>
